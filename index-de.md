@@ -3,6 +3,15 @@ layout: page
 title: "Keep Android Open"
 permalink: /de/
 description: "Befürwortung von Android als kostenlose und offene Plattform für jeden, um Apps zu entwickeln."
+
+# localizable sections for the footer text
+contact_header: "Kontakt"
+contact_email: "E-Mail"
+site_problems_header: "Probleme melden"
+site_report_issues: "Melden Sie ein Problem auf der Website"
+site_disclaimer: "<strong>Haftungsausschluss</strong>: Diese Website ist eine gemeinschaftliche, nicht-kommerzielle Initiative. Sie dient ausschließlich Informations- und Bildungszwecken."
+site_privacy: "<strong>Datenschutz</strong>: Diese Website verwendet keine Cookies und führt weder Tracking noch Nutzerprotokollierung durch."
+site_copyright: "<strong>Urheberrechte</strong>: Keine. Dieses Werk steht unter der Lizenz"
 ---
 
 Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab dem folgenden Jahr nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.
@@ -271,90 +280,3 @@ Diese Projekte arbeiten daran, den dringend benötigten Wettbewerb auf dem Markt
 ### Verschiedenes
 
 - [Empfehlungen der Opposition](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
-
-<footer
-    style="padding: 0px; margin: 0px; font-size: 14px; line-height: 1.6; width: 100%; border-top: 1px solid #dee2e6;">
-    <div
-        style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; padding-top: 2em; margin: 0 auto;">
-        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 16px;">Kontakt</h4>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">E-Mail: <a href="mailto:info@keepandroidopen.org"
-                        style="text-decoration: none;">info@keepandroidopen.org</a></li>
-            </ul>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">Probleme melden: <a
-                        href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues"
-                        style="text-decoration: none;">Melden Sie ein Problem auf der Website</a></li>
-            </ul>
-        </div>
-
-        <div style="flex: 2; min-width: 300px; margin-bottom: 20px;">
-            <p style="padding: 0px;">
-                <strong>Haftungsausschluss:</strong> Diese Website ist eine gemeinschaftliche, nicht-kommerzielle
-                Initiative. Sie dient ausschließlich Informations- und Bildungszwecken.
-            </p>
-            <p style="padding: 0px;">
-                <strong>Datenschutz:</strong> Diese Website verwendet keine Cookies und führt weder Tracking noch
-                Nutzerprotokollierung durch.
-            </p>
-            <p style="padding: 0px;">
-                <strong>Urheberrechte:</strong> Keine. Dieses Werk steht unter der Lizenz <a
-                    href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img
-                    src="/img/cc.svg" alt="CC0-Logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-                    src="/img/zero.svg" alt="CC0 zero Logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-            </p>
-        </div>
-
-        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <div class="outerlync" style="margin-top: 0; margin-bottom: 10px; font-size: 20px;">
-                <img class="innerlync" alt="Altered Deal Logo" src="/img/altered-deal.png" width="150px" />
-            </div>
-        </div>
-    </div>
-</footer>
-
-<style>
-h1 {
-    font-size: 46px;
-    font-weight: 600;
-    color: #2c3e50;
-    margin: 0;
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-h1::before, h1::after {
-    content: '';
-    flex: 1;
-    height: 2px;
-    background: linear-gradient(90deg, transparent, #3498db, transparent);
-    max-width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-html, body: {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-}
-
-.outerlync {
-  cursor: not-allowed;
-  display: inline-block;
-  background: transparent;
-}
-
-.innerlync {
-  transform-style: preserve-3d;
-  transition: ease-out 0.6s;
-}
-
-.outerlync:hover .innerlync {
-  transition: ease-in-out 2.5s;
-  transform: rotate(1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
-}
-</style>

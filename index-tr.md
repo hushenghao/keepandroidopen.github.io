@@ -3,6 +3,15 @@ layout: page
 title: "Android Açık Kalsın"
 permalink: /tr/
 description: "Android'in herkesin üzerinde uygulama geliştirebileceği özgür, açık bir platform olmasını savunuyoruz."
+
+# localizable sections for the footer text
+contact_header: "İrtibat"
+contact_email: "E-posta"
+site_problems_header: "Sorunlar"
+site_report_issues: "Site Sorunlarını Raporlayın"
+site_disclaimer: "<strong>Disclaimer</strong>: Bu site kâr amacı gütmez ve topluluk tarafından yönetilen bir girişimdir. Sadece bigilendirme ve eğitim amaçları bulunur."
+site_privacy: "<strong>Mahremiyet Beyanı</strong>: Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez."
+site_copyright: "<strong>Telif Hakkı</strong>: Yok. Bu çalışma kamu malıdır:"
 ---
 
 Ağustos 2025 tarihinde Google, gelecek seneden itibaren önceden
@@ -242,35 +251,3 @@ Bu projeler, mobil donanım alanında çok ihtiyaç duyulan rekabeti sağlamak i
 
 ### Çeşitli
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
-
-<footer>
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; padding-top: 2em; margin: 0 auto;">
-        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 16px;">
-                İrtibat
-            </h4>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">E-posta: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
-            </ul>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">Sorunlar: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Site Sorunlarını Raporlayın</a></li>
-            </ul>
-        </div>
-        <div style="flex: 2; min-width: 300px; margin-bottom: 20px;">
-            <p style="padding: 0px;">
-                <strong>Mahremiyet Beyanı:</strong> Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez.
-            </p>
-            <p style="padding: 0px;">
-                <strong>Disclaimer:</strong> Bu site kâr amacı gütmez ve topluluk tarafından yönetilen bir girişimdir. Sadece bigilendirme ve eğitim amaçları bulunur.
-            </p>
-            <p style="padding: 0px;">
-                <strong>Telif Hakkı:</strong> Yok. Bu çalışma kamu malıdır: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-            </p>
-        </div>
-        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <div class="outerlync" style="margin-top: 0; margin-bottom: 10px; font-size: 20px;">
-                <img class="innerlync" alt="Altered Deal Logo" src="/img/altered-deal.png" width="150px" />
-            </div>
-        </div>
-    </div>
-</footer>

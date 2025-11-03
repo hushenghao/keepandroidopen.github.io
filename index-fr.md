@@ -3,6 +3,15 @@ layout: page
 title: "Keep Android Open"
 permalink: /fr/
 description: "Plaidoyer pour Android en tant que plateforme libre et ouverte permettant à tous de développer des applications."
+
+# localizable sections for the footer text
+contact_header: "Contact"
+contact_email: "Email"
+site_problems_header: "Problèmes"
+site_report_issues: "Signaler un problème sur le site"
+site_disclaimer: "<strong>Disclaimer:</strong> This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes."
+site_privacy: "<strong>Privacy:</strong> This site uses no cookies and performs no user tracking or logging."
+site_copyright: "<strong>Copyright:</strong> None. This work is marked"
 ---
 
 En août 2025, Google a [annoncé](https://developer.android.com/developer-verification) que, dès l'année suivante,
@@ -268,35 +277,3 @@ Ces projets s'efforcent de créer une concurrence indispensable sur le marché d
 ### Divers
 
 - [Opposition recommendations](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
-
-<footer>
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 1200px; padding-top: 2em; margin: 0 auto;">
-        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 16px; ">
-                Contact
-            </h4>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">Email: <a href="mailto:info@keepandroidopen.org" style="text-decoration: none;">info@keepandroidopen.org</a></li>
-            </ul>
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 5px;">Problèmes: <a href="https://github.com/keepandroidopen/keepandroidopen.github.io/issues" style="text-decoration: none;">Signaler un problème sur le site</a></li>
-            </ul>
-        </div>
-        <div style="flex: 2; min-width: 300px; margin-bottom: 20px;">
-            <p style="padding: 0px;">
-                <strong>Avertissement :</strong> Ce site web est une initiative communautaire à but non lucratif. Il est exploité uniquement à des fins d’information et d’éducation.
-            </p>
-            <p style="padding: 0px;">
-                <strong>Confidentialité :</strong> Ce site n’utilise aucun cookie et n’effectue aucun suivi ni enregistrement des utilisateurs.
-            </p>
-            <p style="padding: 0px;">
-                <strong>Droits d'auteur :</strong> Aucun. Cette œuvre est sous licence <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="Logo CC0" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="Logo CC0 zero" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-            </p>
-        </div>
-        <div style="flex: 1; min-width: 200px; margin-bottom: 20px;">
-            <div class="outerlync" style="margin-top: 0; margin-bottom: 10px; font-size: 20px;">
-                <img class="innerlync" alt="Altered Deal Logo" src="/img/altered-deal.png" width="150px" />
-            </div>
-        </div>
-    </div>
-</footer>
