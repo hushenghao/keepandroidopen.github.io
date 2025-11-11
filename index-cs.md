@@ -147,6 +147,13 @@ Stížnosti jsou zvláště efektivní, když pochází od občanů dané země 
 
 - Kontaktujte [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
+
+#### Česká republika
+
+* E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)
+* Kontaktujte [Úřad pro ochranu hospodářské soutěže (ÚOHS)](https://www.uohs.gov.cz/cs/)
+
+
 ### Vývojáři: Odolejte a odmítněte
 
 Pokud jste vývojáři aplikací, _**nepřihlašujte se**_ do programu ranného přístupu, neprovádějte ověření identity ani nepřijímejte pozvání do Android Developer Console. Odpovězte (zdvořile) na jakoukoli pozvánku seznamem věcí, které vás v této souvislosti znepokojuje a se kterými nesouhlasíte.
