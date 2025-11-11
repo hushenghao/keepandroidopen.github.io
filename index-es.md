@@ -12,7 +12,7 @@ site_problems_header: «Problemas»
 site_report_issues: «Informar de un problema en el sitio web»
 site_disclaimer: «**Aviso:** Este sitio web es una iniciativa comunitaria sin ánimo de lucro. Se utiliza únicamente con fines informativos y educativos».
 site_privacy: «**Privacidad:** Este sitio web no utiliza cookies ni realiza ningún tipo de seguimiento o registro de los usuarios».
-site_copyright: «**Derechos de autor:** Ninguno. Esta obra está bajo licencia».
+site_copyright: «**Derechos de autor:** Ninguno. Esta obra está bajo la licencia».
 ---
 
 En agosto de 2025, Google [anunció](https://developer.android.com/developer-verification) que, a partir del año siguiente,
@@ -20,24 +20,24 @@ ya no será posible desarrollar aplicaciones para la plataforma Android
 sin haberse registrado previamente en Google.
 Este registro implicará:
 
-- Pago de tarifas a Google.
+- Pagar tarifas a Google.
 {:.li-list .li-money}
-- Aceptación de las condiciones de uso de Google.
+- Aceptar los términos y condiciones de Google.
 {:.li-list .li-terms}
-- Presentación de un documento de identidad oficial.
+- Subir un documento de identidad gubernamental oficial.
 {:.li-list .li-id}
-- Carga de la prueba de la clave privada de firma del desarrollador
+- Subir evidencia de la clave de firma privada del desarrollador.
 {:.li-list .li-signing}
-- Lista de todos los identificadores de aplicaciones actuales y futuros
+- Listar todos los identificadores de aplicaciones actuales y futuros.
 {:.li-list .li-appids}
 
 ## Qué significa esto para sus derechos
 
-➤ Usted, **el consumidor**, compró su dispositivo Android creyendo en la promesa de Google: una plataforma informática abierta en la que podía ejecutar el software que deseara. Sin embargo, a partir del año que viene, Google implementará sin su consentimiento una actualización de su sistema operativo que bloqueará definitivamente este derecho y le dejará a merced de su criterio en cuanto al software en el que puede confiar.
+➤ Usted, **el consumidor**, compró su dispositivo Android confiando en la promesa de Google: una plataforma informática abierta en la que podía ejecutar el software que deseara. Sin embargo, a partir del próximo año, Google implementará, sin su consentimiento, una actualización de su sistema operativo que bloqueará definitivamente este derecho y lo dejará a merced del criterio de Google sobre el software en el que se le permite confiar.
 
-➤ Usted, **el creador**, ya no podrá desarrollar aplicaciones y compartirlas directamente con sus amigos, familiares y comunidad sin obtener primero la aprobación de Google. La promesa de Android, un argumento de marketing que le ha permitido diferenciarse del iPhone, siempre se ha basado en su apertura. Pero Google considera claramente que ejerce un control suficiente sobre el ecosistema Android, así como una influencia reguladora suficiente, como para poder ahora abandonar este principio con total impunidad y sin discriminación.
+➤ Usted, **el creador**, ya no podrá desarrollar aplicaciones y compartirlas directamente con sus amigos, familiares y comunidad sin obtener primero la aprobación de Google. La promesa de Android, un argumento de marketing que siempre lo ha diferenciado del iPhone, se ha basado en su apertura. Pero Google claramente considera que ejerce un control suficiente sobre el ecosistema Android, así como una influencia reguladora suficiente, como para abandonar ahora este principio con total impunidad y sin discriminación.
 
-➤ Ustedes, **el Estado**, ceden los derechos de sus ciudadanos y su soberanía digital a una empresa conocida por plegarse a las exigencias extrajudiciales de regímenes autoritarios que pretenden suprimir aplicaciones perfectamente legales que no les gustan. Los programas informáticos esenciales para el funcionamiento de sus empresas y administraciones estarán a merced de los caprichos opacos de una multinacional lejana e irresponsable.
+➤ Ustedes, **el Estado**, ceden los derechos de sus ciudadanos y su soberanía digital a una empresa conocida por acatar las exigencias extrajudiciales de regímenes autoritarios que buscan suprimir aplicaciones legales que simplemente no les gustan. Los programas informáticos esenciales para el funcionamiento de sus empresas y administraciones quedarán a merced de los caprichos opacos de una multinacional lejana e irresponsable.
 
 ## Cómo puedes ayudar
 
@@ -45,7 +45,7 @@ Este registro implicará:
 
 Las autoridades reguladoras de todo el mundo están sinceramente preocupadas por los monopolios y la centralización del poder en el sector tecnológico, y desean escuchar directamente a las personas afectadas. Cuando se pongan en contacto con ellas, sean corteses y precisos en cuanto a los perjuicios que estas políticas pueden causar, tanto a los consumidores como a la competencia.
 
-Las quejas son especialmente eficaces cuando proceden de un ciudadano del país o la región en cuestión, y cuando el correo electrónico está redactado en uno de los idiomas oficiales de la autoridad reguladora. Solicite un acuse de recibo por escrito de la queja y considere la posibilidad de enviar cualquier respuesta que reciba a [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) para que podamos destacarla y referenciarla.
+Las quejas son especialmente efectivas cuando provienen de un ciudadano del país o la región en cuestión, y cuando el correo electrónico está redactado en uno de los idiomas oficiales de la autoridad reguladora. Solicite un comprobante escrito de la recepción de la queja y considere la posibilidad de enviar cualquier respuesta que reciba a [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) para que podamos mostrarla y referenciarla.
 
 #### Unión Europea
 - Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
@@ -72,25 +72,25 @@ Las quejas son especialmente eficaces cuando proceden de un ciudadano del país 
 
 - Correo electrónico: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)
 - Póngase en contacto con Procon (según su estado) y [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)
-- _Nota: Brasil debería ser uno de los [4 primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
+- _Nota: Brasil va a ser uno de los [4 primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
 
 #### Singapur
 
 - Correo electrónico: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
 - Póngase en contacto con la [Comisión de Competencia y Consumo de Singapur (CCCS)](https://www.cccs.gov.sg)
-- _Nota: Singapur debería ser uno de los [primeros cuatro países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores sea obligatorio._
+- _Nota: Singapur va a ser uno de los [primeros cuatro países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores sea obligatorio._
 
 #### Tailandia
 
 - Correo electrónico: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Póngase en contacto con la [Oficina de la Comisión de Competencia Comercial (OTCC)](https://www.tcct.or.th/)
-- _Nota: Tailandia debería ser uno de los [cuatro primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
+- _Nota: Tailandia va a ser uno de los [cuatro primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
 
 #### Indonesia
 
 - Correo electrónico: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
 - Póngase en contacto con la [KPPU para reclamaciones relacionadas con la competencia](https://eng.kppu.go.id)
-- _Nota: Indonesia debería ser uno de los [primeros cuatro países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores sea obligatorio._
+- _Nota: Indonesia va a ser uno de los [primeros cuatro países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores sea obligatorio._
 
 #### Switzerland
 
