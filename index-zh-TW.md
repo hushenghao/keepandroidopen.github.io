@@ -88,7 +88,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 - 電子郵件：[infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)
 - 聯絡 [KPPU 提出競爭投訴](https://eng.kppu.go.id)
 - _註：印尼已被指定為率先強制實施開發者註冊的[首階段 4 個國家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
-- 
+
 #### 瑞士
 
 - 與[競爭委員會](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)開立報告
@@ -152,11 +152,11 @@ site_copyright: "**版權：**無。此著作乃標記為"
 * 聯絡[經濟競爭保護辦公室 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)
 
 
-#### Ukraine
+#### 烏克蘭
 
-- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
-- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
-- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+- 聯絡[國家電子通訊監管委員會](https://nkek.gov.ua/)
+- 聯絡[數位轉型部](https://thedigital.gov.ua/)
+- 聯絡[烏克蘭反壟斷委員會](https://amcu.gov.ua/)
 
 
 
@@ -287,7 +287,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 - 首度宣佈 — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 - 也談安全性：解答您們有關 Android 開發人員驗證的頂尖問題 — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
-- Android developer verification: Early access starts now as we continue to build with your feedback — [https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+- Android 開發人員驗證：搶先體驗現正開始，隨我們繼續一邊收編您的反饋一邊構建 — [https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - Android 開發人員驗證：指南 — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
 - Android 開發人員驗證：常見問題 — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
 - 隆重介紹 Android 開發人員控制台：初窺其貌 — [https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf](https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf)
@@ -296,5 +296,5 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 ### 其他
 
-- [Android Developer Verification Discourse](https://gist.github.com/agnostic-apollo/b8d8daa24cbdd216687a6bef53d417a6) by Termux developer [agnostic-apollo](https://github.com/agnostic-apollo)
+- [Android 開發者驗證深談](https://gist.github.com/agnostic-apollo/b8d8daa24cbdd216687a6bef53d417a6)出自 Termux 開發者 [agnostic-apollo](https://github.com/agnostic-apollo)
 - [反抗建議](https://docs.google.com/document/d/1axlQkdc-wseda9PL2ZP0fgy3I4DqAVVlK5kJw4ksIwU)
