@@ -206,7 +206,6 @@ site_copyright: "**저작권:** 없음. 사이트는 다음 저작권으로 배�
 이 프로젝트들은 모바일 하드웨어 분야에 절실히 필요한 경쟁을 조성하기 위해 노력하고 있습니다.
 
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)

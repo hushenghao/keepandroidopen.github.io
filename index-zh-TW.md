@@ -203,7 +203,6 @@ site_copyright: "**版權：**無。此著作乃標記為"
 這些專案致力在行動硬體領域中提供亟需之競爭。
 
 - [Librephone 出自 Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone 出自 Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone 出自 V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)

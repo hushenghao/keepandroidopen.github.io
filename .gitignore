@@ -10,6 +10,7 @@ vendor/
 *.swp
 *.swo
 *.bkp
+TODO.txt
 
 _site
 node_modules

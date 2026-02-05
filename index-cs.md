@@ -202,7 +202,6 @@ Zkuste přimět své spřízněné vývojáře a organizace, aby se nepřihlašo
 Tyto projekty pracují na tom, aby nabídly velmi potřebnou konkurenci v oblasti mobilního hardware.
 
 - [Librephone od Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone od Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone od V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)

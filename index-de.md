@@ -199,7 +199,6 @@ Fügen Sie die [FreeDroidWarn Bibliothek](https://github.com/woheller69/FreeDroi
 Diese Projekte arbeiten daran, den dringend benötigten Wettbewerb auf dem Markt für mobile Hardware zu fördern.
 
 - [Librephone der Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone von Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone von V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)

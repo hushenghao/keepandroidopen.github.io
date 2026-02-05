@@ -197,7 +197,6 @@ Desencoraje outros desenvolvedores de aplicativos e organizações a se inscreve
 Esses projetos estão trabalhando para proporcionar a muito necessária competição no campo de hardware móvel.
 
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)

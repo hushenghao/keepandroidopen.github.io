@@ -197,7 +197,6 @@ Dissuadez les autres développeurs d'applications et les organisations de s'insc
 Ces projets s'efforcent de créer une concurrence indispensable sur le marché du matériel mobile.
 
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)

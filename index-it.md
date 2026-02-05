@@ -200,7 +200,6 @@ Se sei dipendente o collaboratore di Google con una coscienza pulita e hai ulter
 Questi progetti mirano a fornire una concorrenza indispensabile nel settore dell'hardware mobile.
 
 - [Librephone by the Free Software Foundation](https://librephone.fsf.org/)
-- [Graphene OS](https://grapheneos.org/)
 - [PinePhone by Pine64](https://pine64.org/devices/pinephone/)
 - [Spirit Smartphone by V3lectronics](https://github.com/V3lectronics/SPIRIT)
 - [Shiftphone](https://www.shift.eco/en/)
