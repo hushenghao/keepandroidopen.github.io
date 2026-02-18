@@ -39,6 +39,18 @@ Esse registro envolverá:
 
 ➤ Você, **o Estado**, está cedendo os direitos de seus cidadãos e sua própria soberania digital a uma empresa com histórico de cumprir com as demandas extrajudiciais de regimes autoritários para remover aplicativos perfeitamente legais que eles simplesmente não gostam. O software que é crítico para o funcionamento de seus negócios e governos estará à mercê dos caprichos opacos de uma corporação distante e irresponsável.
 
+<div class="callout-warning">
+
+### Atualização: o Google **não** "recuou" na verificação de desenvolvedores {#clarification}
+
+Ao contrário de uma vaga [menção](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) a um possível "fluxo avançado" que eventualmente poderia permitir que "usuários experientes aceitem os riscos de instalar software que não é verificado", a [descrição do programa](https://developer.android.com/developer-verification) do Google continua a declarar claramente que:
+
+> A partir de setembro de 2026, o Android vai exigir que todos os apps sejam registrados por desenvolvedores verificados para que possam ser instalados em dispositivos Android certificados.
+
+Até que eles tenham demonstrado evidências de que será possível contornar o processo de verificação sem dificuldades indevidas, devemos acreditar no que está declarado em sua página oficial: que **todos** os aplicativos de desenvolvedores não registrados **serão bloqueados** assim que o bloqueio entrar em vigor.
+
+</div>
+
 ## Como você pode ajudar
 
 ### Consumidores: Contatem os órgãos reguladores nacionais {#consumers}

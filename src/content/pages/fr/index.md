@@ -39,6 +39,18 @@ Cet enregistrement impliquera:
 
 ➤ Vous, **l'État**, cédez les droits de vos citoyens et votre souveraineté numérique à une entreprise connue pour se plier aux exigences extrajudiciaires de régimes autoritaires visant à supprimer des applications parfaitement légales qui leur déplaisent. Les logiciels essentiels au fonctionnement de vos entreprises et de vos administrations seront à la merci des caprices opaques d'une multinationale lointaine et irresponsable.
 
+<div class="callout-warning">
+
+### Mise à jour : Google n'a **pas** "fait marche arrière" sur la vérification des développeurs {#clarification}
+
+Contrairement à une vague [mention](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) d'un éventuel "flux avancé" qui pourrait un jour permettre aux "utilisateurs expérimentés d'accepter les risques liés à l'installation de logiciels non vérifiés", la [description du programme](https://developer.android.com/developer-verification) par Google continue d'affirmer clairement que :
+
+> À partir de septembre 2026, Android exigera que toutes les applications soient enregistrées par des développeurs validés pour que les utilisateurs puissent les installer sur des appareils Android certifiés.
+
+Tant qu'ils n'auront pas apporté la preuve qu'il sera possible de contourner le processus de vérification sans friction excessive, nous devons croire ce qui est indiqué sur leur page officielle : que **toutes** les applications de développeurs non enregistrés **seront bloquées** une fois que leur verrouillage entrera en vigueur.
+
+</div>
+
 ## Comment vous pouvez aider
 
 ### Consommateurs : Contactez les autorités de régulation nationales {#consumers}

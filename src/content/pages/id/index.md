@@ -41,6 +41,18 @@ This registration will involve:
 
 ➤ Anda, **pemerintah**, menyerahkan hak-hak warga negara Anda dan kedaulatan digital Anda sendiri kepada sebuah perusahaan yang memiliki rekam jejak dalam memenuhi tuntutan di luar proses hukum dari rezim otoriter untuk menghapus aplikasi-aplikasi yang sepenuhnya legal namun kebetulan tidak disukai oleh mereka. Perangkat lunak yang krusial bagi operasional bisnis dan pemerintahan Anda akan berada di bawah kemauan yang tidak transparan dari sebuah korporasi yang jauh dan tidak bertanggung jawab.
 
+<div class="callout-warning">
+
+### Pembaruan: Google **tidak** "mundur" dari verifikasi pengembang {#clarification}
+
+Bertentangan dengan [penyebutan](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) yang samar tentang kemungkinan "alur lanjutan" yang pada akhirnya dapat memungkinkan "pengguna berpengalaman untuk menerima risiko menginstal perangkat lunak yang tidak terverifikasi", [deskripsi program](https://developer.android.com/developer-verification) Google terus menyatakan dengan jelas bahwa:
+
+> Mulai September 2026, Android akan mewajibkan semua aplikasi didaftarkan oleh developer terverifikasi agar dapat diinstal di perangkat Android bersertifikasi.
+
+Sampai mereka menunjukkan bukti bahwa akan memungkinkan untuk melewati proses verifikasi tanpa hambatan yang berlebihan, kita harus mempercayai apa yang tertulis di halaman resmi mereka: bahwa **semua** aplikasi dari pengembang yang tidak terdaftar **akan diblokir** setelah penguncian mereka berlaku.
+
+</div>
+
 ## Bagaimana Anda dapat membantu
 
 ### Konsumen: Hubungi regulator nasional {#consumers}

@@ -36,6 +36,18 @@ lockdown_banner: "Android 將會變成一個受限制的平台"
 
 ➤ 汝，曰**國度**，正在割讓您一眾市民的權利和您自身的數位主權予一家公司，觀其往績乃遵循威權政權的法外要求移除完全合法惟不合乎心意的應用程式。對您一眾商業與政府之運作尤為關鍵的軟體，將聽任一家山高水遠、無從歸責的企業陰晴不定、風雲詭譎的發落。
 
+<div class="callout-warning">
+
+### 更新：Google **並未**在開發者驗證上「退讓」 {#clarification}
+
+與一則含糊的[提及](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)所述的可能存在的「進階流程」——該流程或許最終將允許「有經驗的使用者接受安裝未經驗證之軟體的風險」——相反，Google 對該計劃的[描述](https://developer.android.com/developer-verification)仍然明確指出：
+
+> 2026 年 9 月起，所有應用程式都必須由通過驗證的開發人員註冊，才能安裝在 Android 認證裝置上。
+
+在他們提供證據表明可以在沒有過度阻礙的情況下繞過驗證流程之前，我們必須相信其官方頁面上所述的內容：一旦其鎖定措施生效，來自未註冊開發者的**所有**應用程式**都將被封鎖**。
+
+</div>
+
 ## 您可如何出一分力
 
 ### 消費者：聯絡國家監管機構 {#consumers}

@@ -39,6 +39,18 @@ Bu kayıt, şunlara sebep olacaktır:
 
 ➤ **Bir devlet** olarak siz, vatandaşlarınızın haklarını ve kendi sayısal egemenliğinizi, otoriter rejimlerin beğenmediği fakat tamamen yasal uygulamaları yasal olmayan kaldırma taleplerine uyma hikayesi olan bir şirkete terk etmektesiniz. Şirketlerinizin ve hükümetlerin işleyişi için kritik önemdeki yazılımlar şeffaf olmayan ve uzaktaki bir şirketin insafına kalmış olacaktır.
 
+<div class="callout-warning">
+
+### Güncelleme: Google geliştirici doğrulamasından **geri adım atmadı** {#clarification}
+
+Sonunda "deneyimli kullanıcıların doğrulanmamış yazılım yükleme risklerini kabul etmesine" olanak tanıyabilecek olası bir "gelişmiş akış"a dair belirsiz bir [atıfın](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) aksine, Google'ın [programın tanımı](https://developer.android.com/developer-verification) açıkça şu ifadeyi kullanmaya devam etmektedir:
+
+> Android, Eylül 2026'dan itibaren sertifikalı Android cihazlara yüklenebilmesi için tüm uygulamaların doğrulanmış geliştiriciler tarafından kaydedilmiş olmasını zorunlu kılacaktır.
+
+Doğrulama sürecini aşırı zorluk olmadan atlamanın mümkün olacağına dair kanıt gösterene kadar, resmî sayfalarında belirtilenin doğru olduğuna inanmalıyız: kayıtlı olmayan geliştiricilerin **tüm** uygulamaları, kilitlenme yürürlüğe girdiğinde **engellenecektir**.
+
+</div>
+
 ## Nasıl yardımcı olabilirsiniz
 
 ### Direnin ve reddedin

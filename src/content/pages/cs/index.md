@@ -39,6 +39,18 @@ Tato registrace bude zahrnovat:
 
 ➤ Vy, **státy**, předáváte práva svých občanů a svoji vlastní digitální suverenitu společnosti se záznamy o vycházení vstříc mimosoudním požadavkům autoritářských režimů odstraňovat naprosto legální aplikace, které se jim nelíbí. Software, který je kritický pro váš byznys a správu bude vydán na milost neprůhledným rozmarům vzdálené a neodpovědné korporace.
 
+<div class="callout-warning">
+
+### Aktualizace: Google **neustoupil** od ověřování vývojářů {#clarification}
+
+Na rozdíl od vágní [zmínky](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) o možném „pokročilém postupu", který by mohl eventuálně umožnit „zkušeným uživatelům přijmout rizika instalace neověřeného softwaru", [popis programu](https://developer.android.com/developer-verification) od Googlu nadále jasně uvádí, že:
+
+> Od září 2026 bude Android vyžadovat, aby všechny aplikace byly registrovány ověřenými vývojáři, aby mohly být nainstalovány na certifikovaných zařízeních Android
+
+Dokud nepředloží důkazy o tom, že bude možné obejít proces ověřování bez nepřiměřených překážek, musíme věřit tomu, co je uvedeno na jejich oficiální stránce: že **všechny** aplikace od neregistrovaných vývojářů **budou zablokovány**, jakmile jejich uzamčení vstoupí v platnost.
+
+</div>
+
 ## Jak můžete pomoci
 
 ### Spotřebitelé: Kontaktovat státní regulátory {#consumers}

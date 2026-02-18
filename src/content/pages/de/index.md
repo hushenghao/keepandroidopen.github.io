@@ -38,6 +38,18 @@ Diese Registrierung umfasst:
 
 ➤ Sie, **der Staat**, überlassen die Rechte Ihrer Bürger und Ihre digitale Souveränität einem Konzern, der dafür bekannt ist, sich außergerichtlichen Forderungen autoritärer Regime zu beugen, um missliebige, völlig legale Anwendungen zu entfernen. Die für Ihre Verwaltung und Wirtschaft unverzichtbare Software wird damit den undurchsichtigen Launen eines fernen, unkontrollierbaren Unternehmens ausgeliefert.
 
+<div class="callout-warning">
+
+### Update: Google hat **nicht** bei der Entwicklerverifizierung „nachgegeben" {#clarification}
+
+Entgegen einer vagen [Erwähnung](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) eines möglichen „erweiterten Ablaufs", der es „erfahrenen Nutzern" eventuell erlauben könnte, „die Risiken der Installation nicht verifizierter Software zu akzeptieren", stellt Googles [Beschreibung des Programms](https://developer.android.com/developer-verification) weiterhin unmissverständlich fest, dass:
+
+> Ab September 2026 müssen alle Android-Apps von bestätigten Entwicklern registriert werden, damit sie auf zertifizierten Android-Geräten installiert werden können.
+
+Solange Google keine Belege dafür vorgelegt hat, dass es möglich sein wird, den Verifizierungsprozess ohne unangemessene Hürden zu umgehen, müssen wir dem Glauben schenken, was auf ihrer offiziellen Seite steht: dass **alle** Apps von nicht-registrierten Entwicklern **blockiert werden**, sobald ihre Sperrung in Kraft tritt.
+
+</div>
+
 ## Wie Sie helfen können
 
 ### Verbraucher: Kontaktieren Sie die nationalen Aufsichtsbehörden {#consumers}
