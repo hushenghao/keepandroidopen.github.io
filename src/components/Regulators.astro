@@ -49,14 +49,32 @@ const orderedCountries = locale === 'ko'
   const items = country.items.filter((item: any) =>
     !item.locales || item.locales.includes(locale)
   );
+  const children = (country.children || []).filter((c: any) =>
+    !c.locales || c.locales.includes(locale)
+  );
   return (
-    <>
-      <h4 id={country.id}>{resolve(country.name, locale)}</h4>
+    <details id={country.id}>
+      <summary><h4>{resolve(country.name, locale)}</h4></summary>
       <ul>
         {items.map((item: any) => (
           <li set:html={renderInline(resolve(item.text, locale))} />
         ))}
       </ul>
-    </>
+      {children.map((child: any) => {
+        const childItems = child.items.filter((item: any) =>
+          !item.locales || item.locales.includes(locale)
+        );
+        return (
+          <>
+            <h5 id={child.id}>{resolve(child.name, locale)}</h5>
+            <ul>
+              {childItems.map((item: any) => (
+                <li set:html={renderInline(resolve(item.text, locale))} />
+              ))}
+            </ul>
+          </>
+        );
+      })}
+    </details>
   );
 })}
