@@ -80,6 +80,9 @@
 - organization: "IzzyOnDroid"
   url: "izzyondroid.org"
   poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
+- organization: "Molly"
+  url: "molly.im"
+  poc: "Oscar Mira <valldrac@molly.im>"
 - organization: "Nextcloud"
   url: "nextcloud.com"
   poc: "Jos Poortvliet <jos.poortvliet@nextcloud.com>"
@@ -88,6 +91,10 @@
   url: "openrightsgroup.org"
   poc: "Jim Killock <jim@openrightsgroup.org>"
   region: GB
+- organization: "Proton"
+  url: "proton.me"
+  poc: "Samuele Kaplun <samuele.kaplun@proton.ch>"
+  region: CH
 - organization: "Rossman Group"
   url: "rossmanngroup.com"
   poc: "Louis Rossmann <youtube@rossmanngroup.com>"

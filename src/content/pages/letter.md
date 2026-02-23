@@ -135,7 +135,7 @@ We call on Google to:
 2.  **Engage in transparent dialogue** with civil society, developers, and regulators about Android security improvements that respect openness and competition
 3.  **Commit to platform neutrality** by ensuring that Android remains a genuinely open platform where Google's role as platform provider does not conflict with its commercial interests
 
-The strength of the Android ecosystem has always been its openness, and Google has always been a faithful steward of that trust. Policies that centralize control, create unnecessary barriers, and extend gatekeeping authority beyond a single marketplace threaten the innovation, diversity, and freedom that have made Android successful.
+The strength of the Android ecosystem has historically been its openness, and Google should be a faithful steward of that trust. Policies that centralize control, create unnecessary barriers, and extend gatekeeping authority beyond a single marketplace threaten the innovation, diversity, and freedom that have made Android successful.
 
 We urge Google to reconsider this policy and to work collaboratively with the broader community to advance security objectives without sacrificing the open principles upon which Android was built.
 
