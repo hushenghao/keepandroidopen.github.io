@@ -38,8 +38,8 @@ function logoPath(url: string): string {
           <li>
             <img class="sig-logo" src={logoPath(sig.url)} alt={`${sig.organization} logo`} loading="lazy" />
             <div class="sig-details">
-              <span class="sig-name">{sig.organization} <span class="sig-flag">{regionFlag(sig.region)}</span></span>
-              <a target="_blank" href={`https://${sig.url}`}>{sig.url}</a>
+              <span class="sig-name">{sig.organization}</span>
+              <a target="_blank" href={`https://${sig.url}`}>{sig.url}<span class="sig-flag">{regionFlag(sig.region)}</span></a>
             </div>
           </li>
         ))}

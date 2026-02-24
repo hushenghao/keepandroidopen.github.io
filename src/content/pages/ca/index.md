@@ -13,6 +13,7 @@ site_privacy: "**Privadesa:** Aquest lloc no utilitza galetes i no fa cap seguim
 site_copyright: "**Copyright:** Cap. Aquesta obra està marcada"
 
 lockdown_banner: "Android es convertirà en una plataforma tancada"
+open_letter_cta: "Llegiu la nostra carta oberta contra el programa de verificació de desenvolupadors d'Android"
 open_letter_header: "Carta oberta"
 open_letter_description: "Una carta oberta per defensar Android com una plataforma lliure i oberta."
 ---

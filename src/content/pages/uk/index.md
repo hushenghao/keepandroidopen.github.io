@@ -13,6 +13,7 @@ site_privacy: "**Конфіденційність:** Цей сайт не вик
 site_copyright: "**Авторське право:** Відсутнє. Ця робота позначена"
 
 lockdown_banner: "Android стане закритою платформою"
+open_letter_cta: "Прочитайте наш відкритий лист проти програми верифікації розробників Android"
 ---
 
 У серпні 2025 року Google [оголосив](https://developer.android.com/developer-verification), що з наступного року

@@ -13,6 +13,7 @@ site_privacy: "**隐私:** 本站不使用cookies，以及用户跟踪或记录"
 site_copyright: "**版权:** 公有领域。本网站使用"
 
 lockdown_banner: "安卓将在这段时间后沦为一个封闭平台"
+open_letter_cta: "阅读我们反对安卓开发者验证计划的公开信"
 ---
 
 2025年8月，Google [宣布](https://developer.android.com.cn/developer-verification)从明年开始，未先向Google注册，将不再能为Android平台开发应用程序。

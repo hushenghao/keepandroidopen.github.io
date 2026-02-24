@@ -30,6 +30,10 @@
   url: "crypt.ee"
   poc: "John Ozbay <hello@johnozbay.com>"
   region: EE
+- organization: "Data Rights"
+  url: "datarights.ngo"
+  poc: "Eliot Bendinelli <info@datarights.ngo>"
+  region: NL
 - organization: "Digitale Gesellschaft"
   url: "digitale-gesellschaft.ch"
   poc: "Philippe Gervais <docta.gervais@proton.me>"
@@ -69,14 +73,14 @@
 - organization: "IzzyOnDroid"
   url: "izzyondroid.org"
   poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
-- organization: "The Free Software Foundation Europe (FSFE)"
-  url: "fsfe.org"
-  poc: "Lucas Lasota <lucas.lasota@fsfe.org>"
-  region: DE
 - organization: "The Free Software Foundation (FSF)"
   url: "fsf.org"
   poc: "Greg Farough via RT <campaigns@fsf.org>"
   region: US
+- organization: "The Free Software Foundation Europe (FSFE)"
+  url: "fsfe.org"
+  poc: "Lucas Lasota <lucas.lasota@fsfe.org>"
+  region: DE
 - organization: "Ghostery"
   url: "ghostery.com"
   poc: "Adam from Ghostery <adam@ghostery.com>"

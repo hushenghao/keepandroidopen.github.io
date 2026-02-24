@@ -13,6 +13,7 @@ site_privacy: "**Datenschutz**: Diese Website verwendet keine Cookies und führt
 site_copyright: "**Urheberrechte**: Keine. Dieses Werk steht unter der Lizenz"
 
 lockdown_banner: "Android wird eine geschlossene Plattform werden."
+open_letter_cta: "Lesen Sie unseren offenen Brief gegen das Android-Entwicklerverifizierungsprogramm"
 ---
 
 Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab September 2026 nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.

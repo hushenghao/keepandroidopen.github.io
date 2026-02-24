@@ -13,6 +13,7 @@ site_privacy: "**Súkromie:** Táto stránka nepoužíva žiadne súbory cookie 
 site_copyright: "**Autorské práva:** Žiadne. Toto dielo je označené"
 
 lockdown_banner: "Android sa stane uzamknutou platformou"
+open_letter_cta: "Prečítajte si náš otvorený list proti programu overovania vývojárov systému Android"
 ---
 
 V auguste 2025 spoločnosť Google [oznámila](https://developer.android.com/developer-verification), že k septembru 2026

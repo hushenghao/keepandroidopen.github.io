@@ -13,6 +13,7 @@ site_privacy: "**Privasi:** Situs ini tidak menggunakan cookie dan tidak melakuk
 site_copyright: "**Hak Cipta:** Tidak ada. Karya ini ditandai"
 
 lockdown_banner: "Android akan menjadi platform yang terkunci."
+open_letter_cta: "Baca surat terbuka kami yang menentang program verifikasi pengembang Android"
 open_letter_header: "Surat Terbuka"
 open_letter_description: "Surat terbuka untuk mendukung Android sebagai platform gratis dan terbuka."
 ---

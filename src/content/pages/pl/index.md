@@ -13,6 +13,7 @@ site_privacy: "**Prywatność:** Ta strona nie używa plików cookie i nie prowa
 site_copyright: "**Prawa autorskie:** Brak. To dzieło jest oznaczone"
 
 lockdown_banner: "Android stanie się platformą zamkniętą"
+open_letter_cta: "Przeczytaj nasz list otwarty przeciwko programowi weryfikacji deweloperów Androida"
 open_letter_header: "List otwarty"
 open_letter_description: "List otwarty w obronie Androida jako wolnej, otwartej platformy."
 ---

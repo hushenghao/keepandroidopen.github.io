@@ -13,6 +13,7 @@ site_privacy: «**Privacidad:** Este sitio web no utiliza cookies ni realiza nin
 site_copyright: «**Derechos de autor:** Ninguno. Esta obra está bajo la licencia».
 
 lockdown_banner: "Android se convertirá en una plataforma cerrada"
+open_letter_cta: "Lea nuestra carta abierta contra el programa de verificación de desarrolladores de Android"
 ---
 
 En agosto de 2025, Google [anunció](https://developer.android.com/developer-verification) que, a partir de septiembre de 2026,

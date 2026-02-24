@@ -13,6 +13,7 @@ site_privacy: "**Privacy:** Questo sito web non utilizza cookie e non effettua a
 site_copyright: "**Diritti d'autore:** Nessuno. Quest'opera è soggetta alla licenza."
 
 lockdown_banner: "Android diventerà una piattaforma bloccata"
+open_letter_cta: "Leggi la nostra lettera aperta contro il programma di verifica degli sviluppatori Android"
 ---
 
 Nell'agosto 2025 Google [ha annunciato](https://developer.android.com/developer-verification) che a partire da settembre 2026

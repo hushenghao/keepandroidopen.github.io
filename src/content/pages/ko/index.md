@@ -13,6 +13,7 @@ site_privacy: "**개인정보:** 본 사이트는 쿠키 등의 정보 수집 �
 site_copyright: "**저작권:** 없음. 사이트는 다음 저작권으로 배포됩니다:"
 
 lockdown_banner: "Android가 폐쇄된 플랫폼이 되기까지 남은 시간:"
+open_letter_cta: "Android 개발자 인증 프로그램에 반대하는 공개 서한을 읽어보세요"
 ---
 
 2025년 8월, Google은 2026년 9월부터 인증된 Android 플랫폼에서 Google에 등록하지 않은 개발자의 애플리케이션 설치를 금지하는 [새로운 정책](https://developer.android.com/developer-verification)을 발표했습니다.

@@ -13,6 +13,7 @@ site_privacy: "**Privacy:** This site uses no cookies and performs no user track
 site_copyright: "**Copyright:** None. This work is marked"
 
 lockdown_banner: "Android will become a locked-down platform"
+open_letter_cta: "Read our open letter opposing the Android Developer Verification program"
 open_letter_header: "Open Letter"
 open_letter_description: "An open letter to advocate for Android as a free, open platform."
 ---

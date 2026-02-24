@@ -13,6 +13,7 @@ site_privacy: "**Ιδιωτικότητα:** Αυτός ο ιστότοπος δ
 site_copyright: "**Πνευματικά δικαιώματα:** Κανένα. Αυτό το έργο έχει επισημανθεί" # Not sure about this translation
 
 lockdown_banner: "Το Android θα γίνει μία κλειστή πλατφόρμα"
+open_letter_cta: "Διαβάστε την ανοιχτή επιστολή μας κατά του προγράμματος επαλήθευσης προγραμματιστών Android"
 open_letter_header: "Ανοιχτό Γράμμα"
 open_letter_description: "Ένα ανοιχτό γράμμα για την υπεράσπιση του Android ως μία ελεύθερη, ανοιχτή πλατφόρμα."
 ---

@@ -13,6 +13,7 @@ site_privacy: "**Gizlilik**: Bu site hiçbir çerez kullanmaz ve kullanıcılar�
 site_copyright: "**Telif Hakkı**: Telif hakkı yoktur. Bu çalışma kamu malıdır:"
 
 lockdown_banner: "Android kısıtlı bir platform haline gelecek."
+open_letter_cta: "Android Geliştirici Doğrulama programına karşı açık mektubumuzu okuyun"
 ---
 
 Ağustos 2025 tarihinde Google, Eylül 2026 itibarıyla önceden

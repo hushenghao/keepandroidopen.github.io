@@ -13,6 +13,7 @@ site_privacy: "**Soukromí:** Tato stránka nepoužívá žádné cookies a nepr
 site_copyright: "**Copyright:** Žádný. Toto dílo je označeno"
 
 lockdown_banner: "Android will become a locked-down platform in"
+open_letter_cta: "Přečtěte si náš otevřený dopis proti programu ověřování vývojářů Androidu"
 ---
 
 V srpnu 2025, Google [oznámil](https://developer.android.com/developer-verification), že k září 2026
