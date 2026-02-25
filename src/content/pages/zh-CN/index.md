@@ -42,7 +42,7 @@ open_letter_cta: "阅读我们反对安卓开发者验证计划的公开信"
 
 ### 更新：Google **并未**在开发者验证上「让步」 {#clarification}
 
-与一则含糊的[提及](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)所述的可能存在的"高级流程"——该流程或许最终将允许"有经验的用户接受安装未经验证的软件的风险"——相反，Google对该计划的[描述](https://developer.android.com.cn/developer-verification)仍然明确指出：
+与一则含糊的[提及](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)所述的可能存在的"高级流程"——该流程或许最终将允许"有经验的用户接受安装未经验证的软件的风险"——相反，Google对该计划的[描述](https://developer.android.google.cn/developer-verification)仍然明确指出：
 
 > 从2026年9月开始，Android将要求所有应用都必须由经过验证的开发者注册，才能安装在已获认证的Android设备上。
 
